@@ -1,6 +1,6 @@
 dotvim
 ======
-	My .vim configuration.
+My .vim configuration.
 
 Installation:
 -------------
